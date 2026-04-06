@@ -4,6 +4,10 @@
 
 ***
 
+https://github.com/user-attachments/assets/30aeb2ea-bf5d-4337-82a4-4b6a051c362a
+
+
+
 # Robotaxi Navigation Orchestrator & Telemetry Monitor
 
 A robust CLI-based orchestration and real-time telemetry monitoring suite designed for ROS 2 autonomous navigation stacks. This project streamlines node management, enhances system observability, and provides instant diagnostic feedback during simulation and real-world deployment.
