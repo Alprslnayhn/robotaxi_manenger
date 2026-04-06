@@ -4,7 +4,6 @@
 
 ***
 
-```markdown
 # Robotaxi Navigation Orchestrator & Telemetry Monitor
 
 A robust CLI-based orchestration and real-time telemetry monitoring suite designed for ROS 2 autonomous navigation stacks. This project streamlines node management, enhances system observability, and provides instant diagnostic feedback during simulation and real-world deployment.
@@ -21,18 +20,16 @@ A robust CLI-based orchestration and real-time telemetry monitoring suite design
 *(Note: Drag and drop your `.webm` files directly into the GitHub editor, then paste the generated URLs into the `src` attributes below.)*
 
 **Demo 1: Stack Initialization & TUI Dashboard**
-<video src="PASTE_1ST_VIDEO_GITHUB_LINK_HERE.webm" controls autoplay loop muted></video>
+<video src="https://github.com/Alprslnayhn/robotaxi_manenger/blob/main/doc/Screecasts/clideo_editor_5ad2952221d346ab9109906034cc0b2b.mp4" controls autoplay loop muted></video>
 
-**Demo 2: Autonomous Navigation & Dynamic Obstacle Avoidance**
-<video src="PASTE_2ND_VIDEO_GITHUB_LINK_HERE.webm" controls autoplay loop muted></video>
 
 ## 📸 Interface Overview
 
 | Component | Description |
 | :--- | :--- |
-| ![Orchestrator CLI](PASTE_PHOTO_LINK_HERE) | **Manager CLI:** The central control hub for managing ROS 2 navigation nodes. |
-| ![Diagnostic Stream](PASTE_PHOTO_LINK_HERE) | **Diagnostic Planner:** Filtered, synchronized stream for error tracking and recovery state analysis. |
-| ![Telemetry & RViz2](PASTE_PHOTO_LINK_HERE) | **Monitor UI & RViz2:** Real-time spatial danger analysis alongside visual path tracking. |
+| ![Orchestrator CLI](doc/Screenshots/Screenshot from 2026-04-06 12-29-10.png) | **Manager CLI:** The central control hub for managing ROS 2 navigation nodes. |
+| ![Diagnostic Stream](https://github.com/Alprslnayhn/robotaxi_manenger/blob/main/doc/Screenshots/Screenshot%20from%202026-04-06%2012-32-34.png) | **Diagnostic Planner:** Filtered, synchronized stream for error tracking and recovery state analysis. |
+| ![Telemetry & RViz2](https://github.com/Alprslnayhn/robotaxi_manenger/blob/main/doc/Screenshots/Screenshot%20from%202026-04-06%2014-35-11.png) | **Monitor UI & RViz2:** Real-time spatial danger analysis alongside visual path tracking. |
 
 ## 🛠️ Build & Deployment
 
@@ -56,4 +53,7 @@ source install/setup.bash
 ros2 run robotaxi_manager menu_node
 ```
 
-```
+**Demo 2: Autonomous Navigation & Dynamic Obstacle Avoidance**
+<video src="https://github.com/Alprslnayhn/robotaxi_manenger/blob/main/doc/Screecasts/Screencast%20from%2006-27-2025%2008%3A58%3A30%20PM.webm" controls autoplay loop muted></video>
+
+
