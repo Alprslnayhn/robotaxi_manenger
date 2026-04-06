@@ -20,6 +20,8 @@ A robust CLI-based orchestration and real-time telemetry monitoring suite design
 
 
 **Demo 1: Stack Initialization & TUI Dashboard**
+<video src="https://github.com/Alprslnayhn/robotaxi_manenger/blob/main/doc/Screecasts/github_demo.mp4" controls autoplay loop muted></video>
+
 <video src="https://github.com/Alprslnayhn/robotaxi_manenger/raw/main/doc/Screecasts/clideo_editor_5ad2952221d346ab9109906034cc0b2b.mp4" controls autoplay loop muted></video>
 
 <video src="https://github.com/Alprslnayhn/robotaxi_manenger/blob/main/doc/Screecasts/Screencast%20from%2006-27-2025%2008%3A58%3A30%20PM.webm" controls autoplay loop muted></video>
