@@ -17,7 +17,7 @@ A robust CLI-based orchestration and real-time telemetry monitoring suite design
 
 ## 🎥 System Demonstrations
 
-*(Note: Drag and drop your `.webm` files directly into the GitHub editor, then paste the generated URLs into the `src` attributes below.)*
+
 
 **Demo 1: Stack Initialization & TUI Dashboard**
 <video src="https://github.com/Alprslnayhn/robotaxi_manenger/blob/main/doc/Screecasts/clideo_editor_5ad2952221d346ab9109906034cc0b2b.mp4" controls autoplay loop muted></video>
@@ -27,7 +27,8 @@ A robust CLI-based orchestration and real-time telemetry monitoring suite design
 
 | Component | Description |
 | :--- | :--- |
-| ![Orchestrator CLI](doc/Screenshots/Screenshot from 2026-04-06 12-29-10.png) | **Manager CLI:** The central control hub for managing ROS 2 navigation nodes. |
+| ![Orchestrator CLI]
+(https://github.com/Alprslnayhn/robotaxi_manenger/blob/main/doc/Screenshots/Screenshot%20from%202026-04-06%2012-29-10.png)| **Manager CLI:** The central control hub for managing ROS 2 navigation nodes. |
 | ![Diagnostic Stream](https://github.com/Alprslnayhn/robotaxi_manenger/blob/main/doc/Screenshots/Screenshot%20from%202026-04-06%2012-32-34.png) | **Diagnostic Planner:** Filtered, synchronized stream for error tracking and recovery state analysis. |
 | ![Telemetry & RViz2](https://github.com/Alprslnayhn/robotaxi_manenger/blob/main/doc/Screenshots/Screenshot%20from%202026-04-06%2014-35-11.png) | **Monitor UI & RViz2:** Real-time spatial danger analysis alongside visual path tracking. |
 
