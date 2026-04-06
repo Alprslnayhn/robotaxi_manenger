@@ -27,8 +27,9 @@ A robust CLI-based orchestration and real-time telemetry monitoring suite design
 
 | Component | Description |
 | :--- | :--- |
-| ![Orchestrator CLI]
-(https://github.com/Alprslnayhn/robotaxi_manenger/blob/main/doc/Screenshots/Screenshot%20from%202026-04-06%2012-29-10.png) | **Manager CLI:** The central control hub for managing ROS 2 navigation nodes. |
+
+| ![Orchestrator CLI](https://github.com/Alprslnayhn/robotaxi_manenger/blob/main/doc/Screenshots/Screenshot%20from%202026-04-06%2012-29-10.png) | **Manager CLI:** The central control hub for managing ROS 2 navigation nodes. |
+
 | ![Diagnostic Stream](https://github.com/Alprslnayhn/robotaxi_manenger/blob/main/doc/Screenshots/Screenshot%20from%202026-04-06%2012-32-34.png) | **Diagnostic Planner:** Filtered, synchronized stream for error tracking and recovery state analysis. |
 | ![Telemetry & RViz2](https://github.com/Alprslnayhn/robotaxi_manenger/blob/main/doc/Screenshots/Screenshot%20from%202026-04-06%2014-35-11.png) | **Monitor UI & RViz2:** Real-time spatial danger analysis alongside visual path tracking. |
 
